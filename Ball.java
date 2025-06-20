@@ -1,5 +1,6 @@
 import java.awt.*;
 
+//
 public class Ball
 {
 	public static final int RADIUS = 10;
